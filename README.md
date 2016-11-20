@@ -25,7 +25,7 @@ Task 3: **Scores**
 
 - [ ] The game ends if:
  - [ ] The user decides to on their turn. - A win
- - [ ] Gold drops below 0 - A lose
+ - [ ] Gold drops below 0 - A loss
 - [ ] If they win, the user's score is recorded. It is calculated by the user's gold total subtract the number of turns they spent playing the game.
 
 Task 4: **Highscores**
