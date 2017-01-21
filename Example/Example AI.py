@@ -45,7 +45,7 @@ def play_game():
     # Set base variables
     pot = gold = total = 0
     turns = 1
-    # I import data from previous games to use as upon which experience to draw
+    # I import data from previous games to use as experience upon which to draw
     data = open('data.txt').readlines()
     values = {}
     for line in data:
