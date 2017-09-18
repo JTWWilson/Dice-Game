@@ -15,7 +15,7 @@ def turn(gold, pot, turns, opted):
     :param gold: The player gold value from the start of the turn
     :param pot: The amount of gold already in the pot at the start of the turn
     :param turns: The number of turns that have gone since the pot was emptied
-    :param opted: The option inputted by the user
+    :param opted: The option inputted by the user (1 = collect, 2 = roll)
     :return: Updated game values from the start of the turn
     """
     # print('Gold: ' + str(gold))
